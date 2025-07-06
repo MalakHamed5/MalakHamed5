@@ -54,10 +54,4 @@
 </p>
 
 
----
-
-### ✨ Fact
-
-> I'm not just a programmer. I believe in learning every day and coding with passion 💫
-
 
