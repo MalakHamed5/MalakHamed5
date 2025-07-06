@@ -47,6 +47,8 @@ I have been learning Dart and Flutter for over a year i have also explored other
 
 <p 
   <a href="https://www.linkedin.com/in/MalakHamed/"><img src="https://img.icons8.com/ios-filled/50/ffffff/linkedin.png" width="40"/></a>
+   <a href="https://github.com/MalakHamed5
+"><img src="https://img.icons8.com/ios-filled/50/ffffff/githup.png" width="40"/></a>
   <a href="mailto:malakhamed495@gmail.com"><img src="https://img.icons8.com/ios-filled/50/ffffff/gmail.png" width="40"/></a>
 </p>
 
