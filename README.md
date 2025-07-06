@@ -1,4 +1,4 @@
-<h1 >Hi 👋, my name is malak hamed</h1>
+<h1 >Hi 👋 My name is Malak Hamed</h1>
 <h3 >A Passionate Programmer | Physics Student | Flutter Developer</h3>
 
 ---
@@ -45,11 +45,16 @@ I have been learning Dart and Flutter for over a year i have also explored other
 ---
 ### Socials 
 
-<p 
-  <a href="https://www.linkedin.com/in/MalakHamed/"><img src="https://img.icons8.com/ios-filled/50/ffffff/linkedin.png" width="40"/></a>
-   <a href="https://github.com/MalakHamed5
-"><img src="https://img.icons8.com/ios-filled/50/ffffff/githup.png" width="40"/></a>
-  <a href="mailto:malakhamed495@gmail.com"><img src="https://img.icons8.com/ios-filled/50/ffffff/gmail.png" width="40"/></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/MalakHamed/">
+    <img src="https://img.icons8.com/ios-filled/50/ffffff/linkedin.png" width="40"/>
+  </a>
+  <a href="https://github.com/MalakHamed5">
+    <img src="https://img.icons8.com/ios-filled/50/ffffff/github.png" width="40"/>
+  </a>
+  <a href="mailto:malakhamed495@gmail.com">
+    <img src="https://img.icons8.com/ios-filled/50/ffffff/gmail.png" width="40"/>
+  </a>
 </p>
 
 
