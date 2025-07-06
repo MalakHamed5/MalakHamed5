@@ -35,17 +35,13 @@ I have been learning Dart and Flutter for over a year i have also explored other
   </a>
   <a href="https://www.linux.org/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
-  </a>
-  <a href="https://ubuntu.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="40" height="40"/>
-  </a>
 </p>
 
 
 ---
 ### Socials 
 
-<p align="center">
+<p>
   <a href="https://www.linkedin.com/in/MalakHamed/">
     <img src="https://img.icons8.com/ios-filled/50/ffffff/linkedin.png" width="40"/>
   </a>
