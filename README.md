@@ -1,5 +1,5 @@
 <h1 >Hi 👋 My name is Malak Hamed</h1>
-<h3 >A Passionate Programmer | Physics Student | Flutter Developer</h3>
+<h3 >A Software engineer | Flutter Developer | Physics Student</h3>
 
 ---
 I have been learning Dart and Flutter for over a year i have also explored other technologies like SQL, C++, Python, and Cybersecurity.... i love coding so much and already have many projects built with different programming languages i always enjoy learning new things and improving my skills. 
