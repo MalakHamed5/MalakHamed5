@@ -1,14 +1,11 @@
-<h1 align="center">Hi 👋, my name is malak hamed</h1>
-<h3 align="center">A Passionate Programmer | Physics Student | Flutter Developer</h3>
+<h1 >Hi 👋, my name is malak hamed</h1>
+<h3 >A Passionate Programmer | Physics Student | Flutter Developer</h3>
 
 ---
+I have been learning Dart and Flutter for over a year i have also explored other technologies like SQL, C++, Python, and Cybersecurity.... i love coding so much and already have many projects built with different programming languages i always enjoy learning new things and improving my skills. 
 
-### 🌱 About Me
-
-- 🎓 I'm a Physics student who is deeply passionate about **programming**.
-- 💻 I love working with **C++**, **Python**, and **Flutter**.
-- 🔐 I have a growing interest in **Cybersecurity** and enjoy learning about **networks and system internals**.
-- 📱 I'm currently building apps with **Flutter**, using **Clean Architecture** .
+* 🌍 I'm based in Egypt
+* ✉️ You can contact me at href="mailto:malakhamed495@gmail.com"
 
 ---
 
@@ -21,7 +18,7 @@
 
 ---
 
-### 🛠️ Skills
+### Skills
 
 <p align="center">
   <a href="https://isocpp.org/" target="_blank">
@@ -46,9 +43,9 @@
 
 
 ---
-### 🌐 Connect with Me
+### Socials 
 
-<p align="center"
+<p 
   <a href="https://www.linkedin.com/in/MalakHamed/"><img src="https://img.icons8.com/ios-filled/50/ffffff/linkedin.png" width="40"/></a>
   <a href="mailto:malakhamed495@gmail.com"><img src="https://img.icons8.com/ios-filled/50/ffffff/gmail.png" width="40"/></a>
 </p>
