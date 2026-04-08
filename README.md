@@ -5,7 +5,7 @@
 I have been learning Dart and Flutter for over a year i have also explored other technologies like SQL, C++, Python, and Cybersecurity.... i love coding so much and already have many projects built with different programming languages i always enjoy learning new things and improving my skills. 
 
 * 🌍 I'm based in Egypt
-* ✉️ You can contact me at malakhamed495@gmail.com
+* ✉️ You can contact me at MalakHamedTech@gmail.com
 
 ---
 
